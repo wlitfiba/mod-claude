@@ -28,11 +28,11 @@ claude plugin install auto-compatta --marketplace wlitfiba/mod-claude
 
 Nell'app desktop: clic su **+** accanto alla casella del prompt → **Plugins** → **Add marketplace** con `wlitfiba/mod-claude` → **Add plugin**.
 
-Il repository è privato: l'installazione funziona solo per chi può leggerlo su GitHub e ha già una credenziale git per github.com sul proprio computer (chiave SSH, oppure `gh auth login` e poi `gh auth setup-git`).
+Il repository è pubblico: chiunque può installare le mod, senza credenziali GitHub.
 
 ## Sessioni cloud (claude.ai/code)
 
-Per caricare le mod nelle sessioni cloud, aggiungi al file `.claude/settings.json` del repository su cui lavori:
+Per caricare le mod nelle sessioni cloud, aggiungi al file `.claude/settings.json` del repository su cui lavori (questo repository lo fa già, nel suo `.claude/settings.json`):
 
 ```json
 {

@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "mod-claude": { "source": { "source": "github", "repo": "wlitfiba/mod-claude" } }
+  },
+  "enabledPlugins": {
+    "modello-leggero@mod-claude": true,
+    "ripristino-automatico@mod-claude": true,
+    "auto-compatta@mod-claude": true
+  }
+}
