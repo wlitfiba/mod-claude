@@ -1,0 +1,1 @@
+{ "name": "auto-compatta", "version": "0.1.0", "description": "Compatta la sessione ogni volta che il contesto cresce del 20% rispetto all'ultima partenza", "types": "./types/index.d.ts" }

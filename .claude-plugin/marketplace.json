@@ -1,0 +1,9 @@
+{
+  "name": "mod-claude",
+  "owner": { "name": "wlitfiba" },
+  "plugins": [
+    { "name": "modello-leggero", "source": "./modello-leggero" },
+    { "name": "ripristino-automatico", "source": "./ripristino-automatico" },
+    { "name": "auto-compatta", "source": "./auto-compatta" }
+  ]
+}

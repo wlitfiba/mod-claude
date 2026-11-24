@@ -1,0 +1,5 @@
+{
+  "name": "ripristino-automatico",
+  "version": "0.1.0",
+  "description": "Al 40% del limite di utilizzo crea un punto di ripristino, chiude la sessione e ne riapre una nuova che riparte da lì."
+}

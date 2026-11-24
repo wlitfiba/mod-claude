@@ -1,0 +1,5 @@
+{
+  "name": "modello-leggero",
+  "version": "0.5.0",
+  "description": "Smista i compiti al modello adatto (Haiku, Sonnet, Opus): strumento delega per il modello, comandi /delega, /haiku e /auto per te, scelta automatica del modello a ogni richiesta, contatore nella barra di stato."
+}
